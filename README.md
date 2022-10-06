@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @deepcodes24
+- 👀 I’m interested in Coding. 
+- 🌱 I’m currently learning in KIIT UNIVERSITY, BHUBANESHWAR, ODISHA, INDIA.
+- 💞️ I’m looking to collaborate on any project since I am still a Fresher.
+- 📫 You can reach me on pythonians.medium.com or 2205029@kiit.ac.in
